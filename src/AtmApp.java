@@ -14,6 +14,9 @@ public class AtmApp {
         //hafize1
         System.out.println("");
         //hafize2
+        System.out.println("");
+        if (true){}
+        System.out.println();
 
 
 
