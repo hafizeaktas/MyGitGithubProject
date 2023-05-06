@@ -15,12 +15,10 @@ public class AtmApp {
         System.out.println("");
         //hafize2
         System.out.println("");
-        if (true){}
+        if (true){
         System.out.println();
-
-
-
-
     }
-
+    //remote repoda değişiklik yaptım.
+    
+    }
 }
